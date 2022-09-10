@@ -1,5 +1,5 @@
 # tic-tac-toe-master
-Enjoy game by click on this link:- https://adityakumarurmaliya.github.io/tic-tac-toe-master/
+<i>Enjoy game by click on this link:- https://adityakumarurmaliya.github.io/tic-tac-toe-master/<i/>
 1. The game is played on a grid that's 3 squares by 3 squares.
 
 2. You are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares.
